@@ -1,0 +1,23 @@
+{
+  "name": "Command-Line",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Super-DLT/Command-Line-.git"
+  },
+  "keywords": [],
+  "author": "Behnam",
+  "license": "ISC",
+  "bin": {
+    "nls": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Super-DLT/Command-Line-/issues"
+  },
+  "homepage": "https://github.com/Super-DLT/Command-Line-#readme"
+}
