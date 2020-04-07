@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Super-DLT/Command-Line-/issues"
   },
-  "homepage": "https://github.com/Super-DLT/Command-Line-#readme"
+  "homepage": "https://github.com/Super-DLT/Command-Line-#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
 }
